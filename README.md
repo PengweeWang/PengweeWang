@@ -11,9 +11,6 @@
   <a href="https://github.com/PengweeWang">
     <img src="https://img.shields.io/badge/GitHub-PengweeWang-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://pengwee.wang/about">
-    <img src="https://img.shields.io/badge/Email-ssnape%20%5Bat%5D%20qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </div>
 
 <br />
@@ -51,28 +48,6 @@
 | 📚 **[Translate](https://github.com/PengweeWang/translate)** | A word segmentation translation desktop software designed for fast & efficient reading. | `Tauri` `Rust` `TypeScript` | [GitHub](https://github.com/PengweeWang/translate) • [Website](https://pengwee.wang/translate/) |
 | 🐱 **[Meowfetch](https://github.com/PengweeWang/meowfetch)** | A simple, fast, and lightweight system information tool for terminal lovers. | `Rust` `CLI` | [GitHub](https://github.com/PengweeWang/meowfetch) • [Releases](https://github.com/PengweeWang/meowfetch/releases) |
 
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PengweeWang&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=PengweeWang&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=PengweeWang&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Pengwee's GitHub Stats" height="165" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=PengweeWang&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=PengweeWang&theme=default&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PengweeWang&theme=tokyonight&hide_border=true" alt="Pengwee's GitHub Streak" height="165" />
-  </picture>
-</div>
-<br />
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PengweeWang&layout=compact&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PengweeWang&layout=compact&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PengweeWang&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-  </picture>
-</div>
 
 ---
 
@@ -84,12 +59,6 @@
   </picture>
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
-  </picture>
-</div>
+
 
 
